@@ -1,0 +1,17 @@
+﻿<Window x:Class="auto_anzeige.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:auto_anzeige"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="960">
+    <Window.Background>
+        <ImageBrush ImageSource="auto.png"/>
+    </Window.Background>
+    <Grid>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="30" Margin="40,210,0,0" VerticalAlignment="Top" Width="170" Source="zeiger.png"/>
+        <Label x:Name="timeLabel" Content="Label" HorizontalAlignment="Left" Height="21" Margin="398,94,0,0" VerticalAlignment="Top" Width="156" Padding="0" Foreground="White" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="16"/>
+
+    </Grid>
+</Window>

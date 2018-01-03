@@ -1,0 +1,14 @@
+C:\M318\auto_anzeige\auto_anzeige\bin\Debug\auto_anzeige.exe.config
+C:\M318\auto_anzeige\auto_anzeige\bin\Debug\auto_anzeige.exe
+C:\M318\auto_anzeige\auto_anzeige\bin\Debug\auto_anzeige.pdb
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\auto_anzeige.csprojResolveAssemblyReference.cache
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\MainWindow.g.cs
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\App.g.cs
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\auto_anzeige_MarkupCompile.cache
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\auto_anzeige_MarkupCompile.lref
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\MainWindow.baml
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\auto_anzeige.g.resources
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\auto_anzeige.Properties.Resources.resources
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\auto_anzeige.csproj.GenerateResource.Cache
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\auto_anzeige.exe
+C:\M318\auto_anzeige\auto_anzeige\obj\Debug\auto_anzeige.pdb
